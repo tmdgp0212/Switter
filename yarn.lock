@@ -1015,6 +1015,11 @@ faye-websocket@0.11.4:
   dependencies:
     websocket-driver ">=0.5.1"
 
+fbase@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/fbase/-/fbase-1.0.0.tgz#dbd378f2c83b0676dce1b4fa22b66dbc2430e4d4"
+  integrity sha512-kLgCx/J7QMSfPkMD5jeim2HL0ThajHjxKN5y/sEtzRrdwn5MGuy+j86gNBpGgpAVObIvG4pKaWZi3GGt0f3WeQ==
+
 firebase@^9.17.2:
   version "9.17.2"
   resolved "https://registry.yarnpkg.com/firebase/-/firebase-9.17.2.tgz#950720666b1628a0b16926fbea4fc4217bd66185"
